@@ -23,4 +23,5 @@
 - XGBoost
 
 <b>Results</b>:
+
 <img width="679" alt="Screenshot 2024-06-30 at 11 36 47" src="https://github.com/Musyaffaq/customer-transaction-prediction/assets/18120258/709eea4d-eb96-453f-b353-59721c738991">
